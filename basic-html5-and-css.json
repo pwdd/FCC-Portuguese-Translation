@@ -126,7 +126,7 @@
       	"Crie um elemento <code>p<code> abaixo do seu elemento <code>h2<code> , e coloque o texto \"Hello Paragrah\".",
         "Elementos <code>p<code> são os elementos comuns para o tamanho normal de um parágrafo de texto em websites. P é uma abreviação  \"parágrafo\".",
         "Você pode criar um elemento <code>p<code> dessa maneira :<code>&#60;p&#62;I'm a p tag!&#60;/p&#62;</code>."
-      
+
       	]
     },
     {
@@ -161,12 +161,12 @@
         "Fíjate que <code>&#60;br&#47&#62</code> no tiene etiqueta de cierre. Es un elemento <code>auto-cerrado</code>. ¿Ves cómo un / precede el signo de cierre (>)?",
         "Luego te encontrarás con otras etiquetas de elementos <code>auto-cerrados</code>."
       ],
-      "namePt": "WayPoint : Separe visualmente os elementos atravês de quebra de linhas",
+      "namePt": "WayPoint: Separe visualmente os elementos atravês de quebra de linhas",
       "descriptionPt": [
       	"Adicione um elemento <code>br<code> á uma página , preferencialmente entre dois de seus elementos .",
        "Elementos <code>br</code> também conhecidos como elementos \"quebra de linha\" , podem ser criados atravês com <code>&#60;br&#62</code>.",
-       "Note que o elemento  <code>&#60;br&#62</code> não tem tag de fechamento . Isto é chamado de elemento  de \"fechamento-automático\".,
-       "Você irá encontrar outras tags de elementos de fechamento automático em breve." 
+       "Note que o elemento  <code>&#60;br&#62</code> não tem tag de fechamento . Isto é chamado de elemento  de \"fechamento-automático\".",
+       "Você irá encontrar outras tags de elementos de fechamento automático em breve."
       ]
     },
     {
@@ -302,8 +302,14 @@
         "Bueno, 5 siglos es bastante. Ya que estamos construyendo una aplicación de fotos de gatos (CatPhotoApp), ¡usemos algo llamado <a href='http://kittyipsum.com/'>Kitty Ipsum</a>!",
         "Aquí están las primeras palabras del texto Kitty Ipsum, que puedes copiar y pegar en la posición correcta: <code>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</code>"
       ],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Waypoint: Preencha espaços vazios com texto de enchimento",
+      "descriptionPt": [
+        "Substitua o texto dentro do seu elemento <code>p</code> com as primeiras palavras do texto fornecido \"Kitty Ipsum\".",
+        "Os desenvolvedores web tradicionalmente usam o texto \"Lorem Ipsum\" como enchimento. Ele é chamado de texto \"Lorem Ipsum\" porque essas são as duas primeiras palavras de uma famosa passagem de Cícero da Roma Antiga.",
+        "O \"Lorem Ipsum\" tem sido usado como um texto de enchimento por tipógrafos desde o século 16, e essa tradição continua na web.",
+        "Bem, 5 séculos é muito tempo. Já que nós estamos construindo um CatPhotoApp, vamos usar algo chamado \"Kitty Ipsum\"!",
+        "Aqui estão as primeiras palavras do \"Kitty Ipsum\", que você pode copiar e colar no lugar correto: <code>Kitty ipsum dolor sit amet, shed everywhere shed everywhere stretching attack your ankles chase the red dot, hairball run catnip eat the grass sniff.</code>"
+      ]
     },
     {
       "_id": "bad87fed1348bd9aedf08833",
@@ -1471,7 +1477,7 @@
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "Crie uma Lista Ordenada",
-      "descriptionPt": [ 
+      "descriptionPt": [
         "Crie uma lista ordenada com as 3 coisas que os gatos mais odeiam.",
         "O HTML tem um elemento especial para criar listas ordenadas, ou listas com estilo-enumerado",
         "Listas ordenadas começam com o elemento <code>&#60;ol&#62;</code>. E então elas contem alguns <code>&#60;li&#62;</code> elementos.",
@@ -1863,7 +1869,7 @@
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "Waypoint: Utilize HTML5 para exigir preenchimento obrigatório",
-      "descriptionPt": [        
+      "descriptionPt": [
         "Faça do seu texto <code>input</code> um campo obrigatório usando \"required\", pois dessa forma o seu usuário não poderá enviar o formulário sem completar o campo obrigatório.",
         "Você pode exigir campos específicos no formulário fazendo com que o seu usuário não consiga enviar o formulário antes que ele ou ela tenha inserido o informação requisitada.",
         "Por exemplo, se você quiser fazer um preenchimento de texto obrigatório, você apenas precisa adicionar a palavra \"required\" entre o elemento <code>input</code>, você usaria: <code>&#60;input type='text' required&#62;</code>."
