@@ -25,7 +25,13 @@
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
-      "descriptionPt": []
+      "descriptionPt": [
+        "Agora que você entende alguns dos fundamentos de Ciência da Computação, vamos focar em programar JavaScript!",
+        "Nós vamos trabalhar através do famoso curso interativo de JavaScript do Codecademy.",
+        "Esse curso vai nos ensinar alguns fundamentos de JavaScript, enquanto nos guia no processo de criação de aplicativos interessantes, tudo dentro do ambiente interativo amigável do Codecademy!",
+        "Vá para <a href='http://www.codecademy.com/pt-BR/courses/javascript-beginner-pt-BR-7jkzo/0/1' target='_blank'>http://www.codecademy.com/pt-BR/courses/javascript-beginner-pt-BR-7jkzo/0/1</a> e complete a seção.",
+        "Certifique-se de também completar essa seção: <a href='http://www.codecademy.com/pt-BR/courses/javascript-beginner-pt-BR-qesq8/0/1' target='_blank'>http://www.codecademy.com/pt-BR/courses/javascript-beginner-pt-BR-qesq8/0/1</a>."
+      ]
     },
     {
       "_id": "bd7130d8c441eddfaeb5bdef",
@@ -74,12 +80,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "Waypoint: Aprenda For Loops em Javascript"
+      "namePt": "Waypoint: Aprenda For Loops em Javascript",
       "descriptionPt": [
-       "Vamos aprender mais sobre os loops que fazem todos os programas virtualmente passiveis - o \"For Loop\" e \"While Loop\". Primeiro nos iremos aprender For Loop.", 
-       "Vá para <a href='http://www.codecademy.com/courses/javascript-beginner-en-NhsaT/0/1' target='_blank'>http://www.codecademy.com/courses/javascript-beginner-en-NhsaT/0/1web</a> e finalize ambos as sessões For e While loop.", 
-       "Certifique-se também de completar esta sessão: <a href='http://www.codecademy.com/courses/javascript-beginner-en-XEDZA/0/1' target='_blank'>http://www.codecademy.com/courses/javascript-beginner-en-XEDZA/0/1</a>."
-        ]
+        "Vamos aprender mais sobre os loops que fazem todos os programas virtualmente passiveis - o \"For Loop\" e \"While Loop\". Primeiro nos iremos aprender For Loop.",
+        "Vá para <a href='http://www.codecademy.com/courses/javascript-beginner-en-NhsaT/0/1' target='_blank'>http://www.codecademy.com/courses/javascript-beginner-en-NhsaT/0/1web</a> e finalize ambos as sessões For e While loop.",
+        "Certifique-se também de completar esta sessão: <a href='http://www.codecademy.com/courses/javascript-beginner-en-XEDZA/0/1' target='_blank'>http://www.codecademy.com/courses/javascript-beginner-en-XEDZA/0/1</a>."
+      ]
     },
     {
       "_id": "bd7132d8c441eddfaeb5bdef",
