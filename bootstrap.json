@@ -1512,11 +1512,11 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "Waypoint: Alinhe Elementos Forms com responsividade usando Bootstrap",
+      "namePt": "Waypoint: Alinhe Elementos do Formulário Usando Bootstrap",
       "descriptionPt": [
-        "Agora vamos começar o seu formulário <code>de entrada</code> e seu <code>botão</code> de submit na mesma linha. Nós vamos fazer isso da mesma forma que temos anteriormente: usando um elemento <code>div</code> com a classe \"row\", e outro elemento <code>div</code> dentro dele usando a classe \"col-xs-*\".",
-        "Agrupe tanto o seu formulário de texto <code>de entrada</code> do seu formulário e  seu <code>botão</code> submit dentro de uma <code>div</code> com a classe \"row\". Agrupe seu formulário de texto de <code>entrada</code> dentro de uma classe div chamada \"col-xs-7\". Agrupe seu <code>botão</code> de submit em uma <code>div</code> do formulário com a classe \"col-xs-5\".",
-        "Este é o último desafio que vamos fazer para nosso Cat Photo App por agora. Nós esperamos que você tenha gostado de aprender Font Awesome, Bootstrap e designer responsivo!"
+        "Agora vamos colocar o campo de entrada <code>input</code> e seu botão de envio <code>button</code> na mesma linha. Vamos fazer isso da mesma forma que fizemos anteriormente: usando um elemento <code>div</code> com a classe \"row\", com um outro elemento <code>div</code> dentro usando a classe \"col-xs-*\".",
+        "Agrupe o campo de texto <code>input</code> e o botão de envio <code>button</code> dentro de um <code>div</code> com a classe \"row\". Agrupe o campo de texto <code>input</code> dentro de um <code>div</code> com classe \"col-xs-7\". Agrupe o botão de envio <code>button</code> em um <code>div</code> com a classe \"col-xs-5\".",
+        "Este é o último desafio do nosso Cat Photo App por enquanto. Esperamos que você tenha gostado de aprender Font Awesome, Bootstrap e designe responsivo!"
       ]
     }
   ]
