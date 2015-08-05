@@ -1405,10 +1405,10 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "Waypoint: Estilo entradas de texto como controles de formulário",
+      "namePt": "Waypoint: Estilize as Entradas de Texto",
       "descriptionPt": [
-        "Atribua ao seu caixa de entrada de texto do seu form a classe \"form-control\". Atribua ao botão de submeter o formulário as classes \"btn btn-primary\". Aproveite e atribua este botão o ícone do Font Awesome Icon de \"fa-paper-plane\".",
-        "Você pode adicionar o Font Awesome Icon \"fa-paper-plane\" adicionando <code>&#60;i class=\"fa fa-paper-plane\"&#62;&#60;/i&#62;</code> no seu  elemento <code>botão</code> de enviar(submit)."
+        "Atribua à caixa de entrada de texto (text input field) do seu formulário a classe \"form-control\". Atribua ao botão 'enviar' as classes \"btn btn-primary\". Aproveite e atribua a este botão o ícone Font Awesome de \"fa-paper-plane\".",
+        "Você pode adicionar o ícone Font Awesome \"fa-paper-plane\" no botão de 'enviar' (submit) incluindo <code>&#60;i class=\"fa fa-paper-plane\"&#62;&#60;/i&#62;</code> dentro do elemento <code>button</code>."
       ]
     },
     {
