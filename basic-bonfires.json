@@ -35,8 +35,25 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Programe em dupla nos Bonfires",
+      "descriptionPt": [
+        "OK, estamos prontos para começarmos a programar em dupla!",
+        "\"Pair Programming\" (programar em dupla) é quando duas pessoas programam juntas no mesmo computador. É um jeito eficiente de colaborar, e vastamente praticado em empresas de software. \"Pair Programming\" é um dos conceitos fundamentais do \"Desenvolvimento Ágil de Software\" (\"Agile\"), do qual vamos falar mais adiante.",
+        "Muitas pessoas usam o Skype ou o Google Hangouts para programar em dupla, but se você conversar com engenheiros de software profissionais, eles vão dizer que, para programar em dupla de verdade, as duas pessoas precisam compartilhar o mouse e o teclado.",
+        "A ferramenta mais popular para programar em dupla em o Screen Hero. Você pode fazer o download para <a href='http://links.screenhero.com/e/c/eyJlbWFpbF9pZCI6Ik1qQTNNem9XQkNJQ1pBQUNjd0FYQVZrVEdnRkxNamtfX0JWZEdGVEpSZkVCWlRwbFpXRTBNamM0WVMxaE56SmlMVEV4WlRRdE9HUXpZUzFpWXpVNE1HRTJNalkxTldNNk1UUTJNVEEyQUE9PSIsInBvc2l0aW9uIjowLCJocmVmIjoiaHR0cDovL2RsLnNjcmVlbmhlcm8uY29tL3NtYXJ0ZG93bmxvYWQvZklYQU1UUUJBTEtQQkhQTC9TY3JlZW5oZXJvLnppcD9zb3VyY2U9d2ViIn0=' target='_blank'>Mac</a> ou <a href='http://links.screenhero.com/e/c/eyJlbWFpbF9pZCI6Ik1qQTNNem9XQkNJQ1pBQUNjd0FYQVZrVEdnRkxNamtfX0JWZEdGVEpSZkVCWlRwbFpXRTBNamM0WVMxaE56SmlMVEV4WlRRdE9HUXpZUzFpWXpVNE1HRTJNalkxTldNNk1UUTJNVEEyQUE9PSIsInBvc2l0aW9uIjoxLCJocmVmIjoiaHR0cDovL2RsLnNjcmVlbmhlcm8uY29tL3NtYXJ0ZG93bmxvYWQvZklYQU1UUUJBTEtQQkhQTC9TY3JlZW5oZXJvLXNldHVwLmV4ZSJ9' target='_blank'>Windows</a>. Você deve criar sua conta de usuário dentro do app.",
+        "Temos também uma sala especial de chat para quem quer programar em dupla. Vá à nossa sala de chat do Slack, navegue até o canal #letspair e digite \"Hello Pair Programmers!\"",
+        "Se alguém estiver disponível, vai ser o seu \"par\" (\"pair\") - a pessoa com quem você vai programar em dupla.",
+        "Se ninguém responder dentro de alguns minutos, não se preocupe. Haverá muitas outras futuras oportunidades para programar em dupla.",
+        "Se alguém responder para você, envie uma mensagem privada e peça o email que usaram para se registrar no Screen Hero.",
+        "Adicione-o/a ao Screen Hero e clique no botão que parece um monitor para tentar compartilhar sua tela com o seu \"par\".",
+        "Assim que a sessão do Scree Hero começar, as telas de ambos terão margens de cor laranja. Vocês estarão compartilhando suas telas.",
+        "Seu par ter o próprio cursor e poderá digitar texto usando o próprio teclado.",
+        "Agora é hora de enfrentar nossas Fogueiras (\"Bonfires\"). Você já pode começar nosso próximo desafio.",
+        "Depois que você terminar de programar em dupla, encerre a seção do Screen Hero.",
+        "Parabéns! Você completou sua primeira seção de programação em dupla.",
+        "Programe em dupla o máximo que puder com diferentes estudantes até que você tenha completado todos os desafios do \"Bonfire\". É necessário investir bastante tempo, mas a prática de JavaScript que você vai ganhar vai valer a pena!",
+        "Marque este Waypoint como completo e siga em frente."
+      ]
     },
     {
       "_id": "ad7123c8c441eddfaeb5bdef",
