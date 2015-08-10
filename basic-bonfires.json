@@ -94,7 +94,7 @@
       "namePt": "Bonfire: Conheça o Bonfire (\"Fogueira\")",
       "descriptionPt": [
       "Clique o botão abaixo para mais instruções.",
-      "Seu objetivo é consertar o test que está falhando.",
+      "Seu objetivo é consertar o teste que está falhando.",
       "Primeiro, execute todos os testes clicando \"Run code\" ou pressionando Control + Enter",
       "O teste falho está em vermelho. Arrume o código até que todos os testes passem. Então você pode seguir adiante para o próximo Bonfire.",
       "Faça a função retornar \"true\" de qualquer forma."
