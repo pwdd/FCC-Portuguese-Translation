@@ -138,8 +138,13 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Inverta uma String",
+      "descriptionPt": [
+        "Inverta a \"string\" fornecida.",
+        "Talvez você precise transformar a string em uma \"array\" antes que você possa invertê-la.",
+        "O resultado deve ser um string.",
+        "Lembre de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código."
+      ]
     },
     {
       "_id": "a302f7aae1aa3152a5b413bc",
