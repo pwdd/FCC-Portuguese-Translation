@@ -37,9 +37,9 @@
       "descriptionEs": [],
       "namePt": "Programe em dupla nos Bonfires",
       "descriptionPt": [
-        "OK, estamos prontos para começarmos a programar em dupla!",
+        "OK, estamos prontos para começar a programar em dupla!",
         "\"Pair Programming\" (programar em dupla) é quando duas pessoas programam juntas no mesmo computador. É um jeito eficiente de colaborar, e vastamente praticado em empresas de software. \"Pair Programming\" é um dos conceitos fundamentais do \"Desenvolvimento Ágil de Software\" (\"Agile\"), do qual vamos falar mais adiante.",
-        "Muitas pessoas usam o Skype ou o Google Hangouts para programar em dupla, but se você conversar com engenheiros de software profissionais, eles vão dizer que, para programar em dupla de verdade, as duas pessoas precisam compartilhar o mouse e o teclado.",
+        "Muitas pessoas usam o Skype ou o Google Hangouts para programar em dupla, mas se você conversar com engenheiros de software profissionais, eles vão dizer que, para realmente programar em dupla, as duas pessoas precisam compartilhar o mouse e o teclado.",
         "A ferramenta mais popular para programar em dupla em o Screen Hero. Você pode fazer o download para <a href='http://links.screenhero.com/e/c/eyJlbWFpbF9pZCI6Ik1qQTNNem9XQkNJQ1pBQUNjd0FYQVZrVEdnRkxNamtfX0JWZEdGVEpSZkVCWlRwbFpXRTBNamM0WVMxaE56SmlMVEV4WlRRdE9HUXpZUzFpWXpVNE1HRTJNalkxTldNNk1UUTJNVEEyQUE9PSIsInBvc2l0aW9uIjowLCJocmVmIjoiaHR0cDovL2RsLnNjcmVlbmhlcm8uY29tL3NtYXJ0ZG93bmxvYWQvZklYQU1UUUJBTEtQQkhQTC9TY3JlZW5oZXJvLnppcD9zb3VyY2U9d2ViIn0=' target='_blank'>Mac</a> ou <a href='http://links.screenhero.com/e/c/eyJlbWFpbF9pZCI6Ik1qQTNNem9XQkNJQ1pBQUNjd0FYQVZrVEdnRkxNamtfX0JWZEdGVEpSZkVCWlRwbFpXRTBNamM0WVMxaE56SmlMVEV4WlRRdE9HUXpZUzFpWXpVNE1HRTJNalkxTldNNk1UUTJNVEEyQUE9PSIsInBvc2l0aW9uIjoxLCJocmVmIjoiaHR0cDovL2RsLnNjcmVlbmhlcm8uY29tL3NtYXJ0ZG93bmxvYWQvZklYQU1UUUJBTEtQQkhQTC9TY3JlZW5oZXJvLXNldHVwLmV4ZSJ9' target='_blank'>Windows</a>. Você deve criar sua conta de usuário dentro do app.",
         "Temos também uma sala especial de chat para quem quer programar em dupla. Vá à nossa sala de chat do Slack, navegue até o canal #letspair e digite \"Hello Pair Programmers!\"",
         "Se alguém estiver disponível, vai ser o seu \"par\" (\"pair\") - a pessoa com quem você vai programar em dupla.",
@@ -233,8 +233,14 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Cheque os Palíndromos",
+      "descriptionPt": [
+        "Retorne \"true\" se a string fornecida for um palíndromo. Se não for, retorne \"false\".",
+        "Palíndromo é uma palavra ou frase que, lida de trás para frente, tem as mesmas letras na mesma ordem, ignorando pontuação, maísculas e minúsculas, e espaços.",
+        "Você vai precisar remover pontuações e transformar tudo em minúsculas para conseguir checar os palíndromos.",
+        "As strings usadas como argumento terão formatos variados, como \"racecar\", \"RaceCar\", and \"race CAR\" entre outros.",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código."      
+      ]
     },
     {
       "_id": "a26cbbe9ad8655a977e1ceb5",
@@ -272,8 +278,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Entre a Palavra Mais Longa de uma String",
+      "descriptionPt": [
+        "Retorne o comprimento da palavra mais longa da frase fornecida.",
+        "Sua resposta precisa ser um número.",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código."      
+      ]
     },
     {
       "_id": "ab6137d4e35944e21037b769",
@@ -309,8 +319,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Capitalize Todas as Palavras da Frase",
+      "descriptionPt": [
+        "Retorne a string fornecida com a primeira letra de cada palavra alterada para maiúscula.",
+        "Para esse exercício, você deve capitalizar inclusive as palavras de conexão, como 'the' e 'of'.",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código."      
+      ]
     },
     {
       "_id": "a789b3483989747d63b0e427",
@@ -347,8 +361,13 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Retorne o Maior Número de uma Array",
+      "descriptionPt": [
+        "Retorne uma array que seja formada pelos maiores números de cada sub-array fornecida. Para simplificar, cada array fornecida terá 4 sub-arrays.",
+        "Lembre que você pode iterar pela array com um loop simples, e acessar cada elemento usando a sintaxe arr[i].",
+        "Se você estiver escrevendo os seus próprios testes Chai.js, certifique-se de usar o sinal comparativo profundo quando comparar arrays.",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código."      
+      ]
     },
     {
       "_id": "acda2fb1324d9b0fa741e6b5",
