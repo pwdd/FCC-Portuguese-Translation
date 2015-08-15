@@ -482,8 +482,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Encurte a string",
+      "descriptionPt": [
+        "Encurte a string (primeiro argumento) se for mais longa que o comprimento máximo fornecido (segundo argumento). Retorne a versão encurtada da string seguida de '...' no final.",
+        "Observe que as reticências (três pontos) no final contam no comprimento da string.",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     },
     {
       "_id": "a9bd25c716030ec90084d8a1",
@@ -519,8 +523,11 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Por Partes",
+      "descriptionPt": [
+        "Escreva uma função que divide (split) uma array (primeiro argumento) em grupos que tenham o comprimento determinado no segundo argumento e os retorne como uma array multidimensional.",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     },
     {
       "_id": "ab31c21b530c0dafa9e241ee",
