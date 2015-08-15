@@ -654,8 +654,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Adeus à Falsidade",
+      "descriptionPt": [
+        "Remova todos os valores 'falsey' da array.",
+        "Valores 'falsey' em JavaScript são false, null, 0, \"\", undefined e NaN.",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     },
     {
       "_id": "a8e512fbe388ac2f9198f0fa",
@@ -692,8 +696,11 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Onde Estás, Romeu?",
+      "descriptionPt": [
+        "Escreva uma função que faz uma busca em uma lista (primeiro argumento) e retorna uma array com todos os objetos que tenham valores de propriedades equivalentes (segundo argumento).",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     },
     {
       "_id": "a39963a4c10bc8b4d4f06d7e",
