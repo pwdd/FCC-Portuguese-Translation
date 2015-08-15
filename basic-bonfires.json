@@ -236,7 +236,7 @@
       "namePt": "Bonfire: Cheque os Palíndromos",
       "descriptionPt": [
         "Retorne \"true\" se a string fornecida for um palíndromo. Se não for, retorne \"false\".",
-        "Palíndromo é uma palavra ou frase que, lida de trás para frente, tem as mesmas letras na mesma ordem, ignorando pontuação, maísculas e minúsculas, e espaços.",
+        "Palíndromo é uma palavra ou frase que, lida de trás para frente, tem as mesmas letras na mesma ordem, ignorando pontuação, maiúsculas e minúsculas, e espaços.",
         "Você vai precisar remover pontuações e transformar tudo em minúsculas para conseguir checar os palíndromos.",
         "As strings usadas como argumento terão formatos variados, como \"racecar\", \"RaceCar\", and \"race CAR\" entre outros.",
         "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código."      
@@ -609,8 +609,15 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Mutações",
+      "descriptionPt": [
+        "Retorne true se a string no primeiro elemento de uma array contiver todas as letras da string do segundo elemento da array.",
+        "Por exemplo: ['hello', 'Hello'] deve retornar true porque todas as letras na segunda string estão presentes na primeira, ignorando maiúsculas e minúsculas.",
+        "Os argumentos ['hello', 'hey'] deve retornar false porque a string 'hello' não contém a letra 'y'.",
+        "Outro exemplo: ['Alien', 'line'] deve retornar true porque todas as letras em 'line' estão presentes em 'Alien'.",
+        "Por fim, ['Mary', 'Aarmy'] deve retornar false porque 'Mary' tem apenas 4 letras e 'Aarmy' tem 5, então 'Mary' não pode conter 'Aarmy'.",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     },
     {
       "_id": "adf08ec01beb4f99fc7a68f2",
