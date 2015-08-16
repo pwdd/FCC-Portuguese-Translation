@@ -236,7 +236,7 @@
       "namePt": "Bonfire: Cheque os Palíndromos",
       "descriptionPt": [
         "Retorne \"true\" se a string fornecida for um palíndromo. Se não for, retorne \"false\".",
-        "Palíndromo é uma palavra ou frase que, lida de trás para frente, tem as mesmas letras na mesma ordem, ignorando pontuação, maísculas e minúsculas, e espaços.",
+        "Palíndromo é uma palavra ou frase que, lida de trás para frente, tem as mesmas letras na mesma ordem, ignorando pontuação, maiúsculas e minúsculas, e espaços.",
         "Você vai precisar remover pontuações e transformar tudo em minúsculas para conseguir checar os palíndromos.",
         "As strings usadas como argumento terão formatos variados, como \"racecar\", \"RaceCar\", and \"race CAR\" entre outros.",
         "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código."      
@@ -403,8 +403,11 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Confirme o final",
+      "descriptionPt": [
+        "Confirme se o final da string (primeiro argumento) é exatamente igual ao target (segundo argumento).",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código."
+      ]
     },
     {
       "_id": "afcc8d540bea9ea2669306b6",
@@ -439,8 +442,11 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Repita a string, repita a string",
+      "descriptionPt": [
+        "Repita a string fornecida (primeiro argumento) n vezes (segundo argumento). Retorne uma string vazia se n for um número negativo.",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código."
+      ]
     },
     {
       "_id": "ac6993d51946422351508a41",
@@ -476,8 +482,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Encurte a string",
+      "descriptionPt": [
+        "Encurte a string (primeiro argumento) se for mais longa que o comprimento máximo fornecido (segundo argumento). Retorne a versão encurtada da string seguida de '...' no final.",
+        "Observe que as reticências (três pontos) no final contam no comprimento da string.",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     },
     {
       "_id": "a9bd25c716030ec90084d8a1",
@@ -513,8 +523,11 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Por Partes",
+      "descriptionPt": [
+        "Escreva uma função que divide (split) uma array (primeiro argumento) em grupos que tenham o comprimento determinado no segundo argumento e os retorne como uma array multidimensional.",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     },
     {
       "_id": "ab31c21b530c0dafa9e241ee",
@@ -550,8 +563,11 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Cortem-lhes as Cabeças!",
+      "descriptionPt": [
+        "Retorne os elementos restantes de uma array depois de cortar n elementos do início dessa array.",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     },
     {
       "_id": "af2170cad53daa0770fabdea",
@@ -593,8 +609,15 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Mutações",
+      "descriptionPt": [
+        "Retorne true se a string no primeiro elemento de uma array contiver todas as letras da string do segundo elemento da array.",
+        "Por exemplo: ['hello', 'Hello'] deve retornar true porque todas as letras na segunda string estão presentes na primeira, ignorando maiúsculas e minúsculas.",
+        "Os argumentos ['hello', 'hey'] deve retornar false porque a string 'hello' não contém a letra 'y'.",
+        "Outro exemplo: ['Alien', 'line'] deve retornar true porque todas as letras em 'line' estão presentes em 'Alien'.",
+        "Por fim, ['Mary', 'Aarmy'] deve retornar false porque 'Mary' tem apenas 4 letras e 'Aarmy' tem 5, então 'Mary' não pode conter 'Aarmy'.",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     },
     {
       "_id": "adf08ec01beb4f99fc7a68f2",
@@ -631,8 +654,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Adeus à Falsidade",
+      "descriptionPt": [
+        "Remova todos os valores 'falsey' da array.",
+        "Valores 'falsey' em JavaScript são false, null, 0, \"\", undefined e NaN.",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     },
     {
       "_id": "a8e512fbe388ac2f9198f0fa",
@@ -669,8 +696,11 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Onde Estás, Romeu?",
+      "descriptionPt": [
+        "Escreva uma função que faz uma busca em uma lista (primeiro argumento) e retorna uma array com todos os objetos que tenham valores de propriedades equivalentes (segundo argumento).",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     },
     {
       "_id": "a39963a4c10bc8b4d4f06d7e",
