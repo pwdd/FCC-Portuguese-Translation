@@ -735,8 +735,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Procure e Destrua",
+      "descriptionPt": [
+        "Lhe será dada uma array inicial (o primeiro argumento da função destroyer), além dessa array inicial a função destroyer terá um ou mais argumentos.",
+        "Remova todos os elementos da array inicial que possuem o mesmo valor dos outros argumentos",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     },
     {
       "_id": "a24c1a4622e3c05097f71d67",
@@ -771,8 +775,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Onde eu pertenço?",
+      "descriptionPt": [
+        "Retorne o menor index, no qual um valor (segundo argumento) deve ser inserido em uma array ordenada (primeiro argumento)",
+        "Por exemplo, where([1,2,3,4], 1.5) deve retornar 1 porque é maior do que 1 (index 0), porém menor do que 2 (index 1)",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     },
     {
       "_id": "a3566b1109230028080c9345",
@@ -811,8 +819,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Some Todos os Números em uma Série",
+      "descriptionPt": [
+        "Lhe será dada uma array com dois números. Retorne a soma desses dois númberos e todos os números entre eles.",
+        "Nem sempre o menor número será o primeiro.",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+        ]
     },
     {
       "_id": "a5de63ebea8dbee56860f4f2",
@@ -856,8 +868,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Compare Duas Arrays",
+      "descriptionPt": [
+        "Compare two arrays and return a new array with any items not found in both of the original arrays.",
+        "Compare duas arrays e retorne uma nova array com qualquer item não encontrado em ambas das arrays originais"
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     },
     {
       "_id": "a7f4d8f2483413a6ce226cac",
@@ -896,8 +912,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Conversor de Números Romanos",
+      "descriptionPt": [
+        "Converta um número para o respectivo número romano",
+        "Todas as respostas dos <a href=\"http://www.mathsisfun.com/roman-numerals.html\"> números romanos</a>  devem ser em caixa alta",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     },
     {
       "_id": "a0b5010f579e69b815e7c5d6",
@@ -939,8 +959,15 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Busque e Substitua",
+      "descriptionPt": [
+        "Faça uma busca e substituição em uma frase usando um argumento fornecido e retorne a nova frase",
+        "O primeiro argumento é a frase em que a busca e substituição será realizada",
+        "O segundo argumento é a palavra que será substituída",
+        "O terceiro argumento é a palavra que substituirá o segundo argumento no primeiro argumento",
+        "OBS: Preserve a caixa da palavra original quando você a estiver substituindo. Por exemplo, se você substituir a palavra 'Livro' com a palavra 'cachorro', a nova palavra deve ser 'Cachorro'",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     },
     {
       "_id": "aa7697ea2477d1316795783b",
@@ -1021,7 +1048,11 @@
       "nameEs": "",
       "descriptionEs": [],
       "namePt": "",
-      "descriptionPt": []
+      "descriptionPt": [
+        
+        
+
+      ]
     },
     {
       "_id": "af7588ade1100bde429baf20",
