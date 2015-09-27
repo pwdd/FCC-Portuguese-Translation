@@ -737,8 +737,7 @@
       "descriptionEs": [],
       "namePt": "Bonfire: Procure e Destrua",
       "descriptionPt": [
-        "Lhe será dada uma array inicial (o primeiro argumento da função destroyer), além dessa array inicial a função destroyer terá um ou mais argumentos.",
-        "Remova todos os elementos da array inicial que possuem o mesmo valor dos outros argumentos",
+        "Será dada a você uma array inicial (o primeiro argumento da função destroyer), seguida de um ou mais argumentos. Remova todos os elementos da array inicial que tenham o mesmo valor dos outros argumentos.",
         "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
       ]
     },
@@ -775,9 +774,9 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "Bonfire: Onde eu pertenço?",
+      "namePt": "Bonfire: Onde é meu lugar?",
       "descriptionPt": [
-        "Retorne o menor index, no qual um valor (segundo argumento) deve ser inserido em uma array ordenada (primeiro argumento)",
+        "Retorne o menor index no qual um valor (segundo argumento) deve ser inserido em uma array ordenada (primeiro argumento)",
         "Por exemplo, where([1,2,3,4], 1.5) deve retornar 1 porque é maior do que 1 (index 0), porém menor do que 2 (index 1)",
         "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
       ]
@@ -821,7 +820,7 @@
       "descriptionEs": [],
       "namePt": "Bonfire: Some Todos os Números em uma Série",
       "descriptionPt": [
-        "Lhe será dada uma array com dois números. Retorne a soma desses dois númberos e todos os números entre eles.",
+        "Será dada a você uma array com dois números. Retorne a soma desses dois númberos e todos os números entre eles.",
         "Nem sempre o menor número será o primeiro.",
         "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
         ]
@@ -870,8 +869,7 @@
       "descriptionEs": [],
       "namePt": "Bonfire: Compare Duas Arrays",
       "descriptionPt": [
-        "Compare two arrays and return a new array with any items not found in both of the original arrays.",
-        "Compare duas arrays e retorne uma nova array com qualquer item não encontrado em ambas das arrays originais"
+        "Compare duas arrays e retorne uma nova array com os itens não encontrados em nenhuma das arrays originais",
         "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
       ]
     },
@@ -961,10 +959,10 @@
       "descriptionEs": [],
       "namePt": "Bonfire: Busque e Substitua",
       "descriptionPt": [
-        "Faça uma busca e substituição em uma frase usando um argumento fornecido e retorne a nova frase",
-        "O primeiro argumento é a frase em que a busca e substituição será realizada",
-        "O segundo argumento é a palavra que será substituída",
-        "O terceiro argumento é a palavra que substituirá o segundo argumento no primeiro argumento",
+        "Faça uma busca e substituição em uma frase usando os argumentos fornecidos e retorne a nova frase.",
+        "O primeiro argumento é a frase em que a busca e substituição será realizada.",
+        "O segundo argumento é a palavra que será substituída.",
+        "O terceiro argumento é a palavra que substituirá o segundo argumento.",
         "OBS: Preserve a caixa da palavra original quando você a estiver substituindo. Por exemplo, se você substituir a palavra 'Livro' com a palavra 'cachorro', a nova palavra deve ser 'Cachorro'",
         "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
       ]
@@ -1241,8 +1239,11 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: O caso da medula espinhal",
+      "descriptionPt": [
+        "Converta a string para o formato \"spinal case \" (espinhal). Uma string no formato espinhal tem apenas-as-letras-minúsculas-unidas-por-hífens.",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     },
     {
       "_id": "a5229172f011153519423690",
@@ -1281,8 +1282,13 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Some todos os números Fibonacci ímpares",
+      "descriptionPt": [
+        "Retorne a soma de todos os números Fibonacci ímpares até e incluindo o número passado como argumento, desde que esse número seja um Fibonacci.",
+        "Os primeiros números de uma sequência Fibonacci são 1, 1, 2, 3, 5 e 8, e cada número subsequente é a soma dos dois números anteriores.",
+        "Como exemplo, passar 4 para a função deve retornar 5, porque todos os números Fibonacci ímpares abaixo de 4 são 1, 1 e 3.",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     },
     {
       "_id": "a3bfc1673c0526e06d3ac698",
@@ -1319,8 +1325,13 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Soma dos números primos",
+      "descriptionPt": [
+        "Some todos os números primos até - e incluindo - o número fornecido.",
+        "Um número primo é definido como tendo apenas dois divisores, 1 e ele mesmo. Por exemplo, 2 é um número primo porque é divisível apenas por 1 e 2. 1 não é um número primo porque é divisível apenas por ele mesmo.",
+        "O número fornecido pode não ser um número primo.",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     },
     {
       "_id": "ae9defd7acaf69703ab432ea",
@@ -1357,8 +1368,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Mínimo múltiplo comum",
+      "descriptionPt": [
+        "Encontre o menor número que é igualmente divisível por todos os números dentro do alcance fornecido.",
+        "O 'alcance' (range) será uma array de dois números que não estarão necessariamente em ordem numérica.",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     },
     {
       "_id": "a6e40f1041b06c996f7b2406",
@@ -1392,8 +1407,11 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Encontre e guarde",
+      "descriptionPt": [
+        "Escreva uma função que procura em uma array (primeiro argumento) e retorna o primeiro elemento dessa array que, quando passado como argumento do teste (segundo argumento), retorne um valor verdadeiro.",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     },
     {
       "_id": "a5deed1811a43193f9f1c841",
@@ -1429,8 +1447,11 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Larga disso!",
+      "descriptionPt": [
+        "Derrube todos os elementos de uma array (primeiro argumento), começando pelo início, até que o predicado (segundo argumento) retorne true.",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     },
     {
       "_id": "ab306dbdcc907c7ddfc30830",
@@ -1465,8 +1486,11 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Rolo compressor",
+      "descriptionPt": [
+        "Transforme a array multidimensional em uma simples. Você deve considerar que os níveis de aninhamento podem variar.",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     },
     {
       "_id": "a8d97bd4c764e91f9d2bda01",
@@ -1501,8 +1525,12 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Agentes binários",
+      "descriptionPt": [
+        "Retorne uma sentença em inglês a partir da string binária passada como argumento.",
+        "A string binária será separada por espaços.",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     },
     {
       "_id": "a10d2431ad0c6a099a4b8b52",
@@ -1539,8 +1567,13 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Que tudo seja verdadeiro",
+      "descriptionPt": [
+        "Verifique se o predicado (segundo argumento) retorna \"truthy\" (definido) para todos os elementos de uma coleção (primeiro argumento).",
+        "Para isso, verifique se a propriedade definida no segundo argumento está presente em todos os elementos da coleção.",
+        "Lembre que você pode acessar a propriedade dos objetos usando a notação com ponto com ou [].",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     },
     {
       "_id": "a97fd23d9b809dac9921074f",
@@ -1579,8 +1612,13 @@
       "descriptionRu": [],
       "nameEs": "",
       "descriptionEs": [],
-      "namePt": "",
-      "descriptionPt": []
+      "namePt": "Bonfire: Argumentos opcionais",
+      "descriptionPt": [
+        "Crie uma função que some dois argumentos. Se apenas um dos argumentos for fornecido, retorne uma função que aceita um argumento adicional e vai retornar a soma.",
+        "Por exemplo, add(2, 3) deve retornar 5, e add(2) deve retornar a função que espera por um argumento tal que <code>var sum2And = add(2); return sum2And(3); // 5</code>",
+        "Se nenhum dos argumentos for um número válido, retorne 'undefined'.",
+        "Lembre-se de usar <a href='/field-guide/how-do-i-get-help-when-I-get-stuck'>RSAP</a> se você não conseguir ir adiante. Tente programar em dupla. Escreva o seu próprio código." 
+      ]
     }
   ]
 }
